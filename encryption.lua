@@ -1,12 +1,4 @@
---[[
-ADVANCED ENCRYPTION STANDARD (AES)
 
-Implementation of secure symmetric-key encryption specifically in Luau
-Includes ECB, CBC, PCBC, CFB, OFB and CTR modes without padding.
-Made by @RobloxGamerPro200007 (verify the original asset)
-
-MORE INFORMATION: https://devforum.roblox.com/t/advanced-encryption-standard-in-luau/2009120
-]]
 
 -- SUBSTITUTION BOXES
 local s_box 	= { 99, 124, 119, 123, 242, 107, 111, 197,  48,   1, 103,  43, 254, 215, 171, 118, 202,
